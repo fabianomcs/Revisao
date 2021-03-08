@@ -1,4 +1,4 @@
-# Aplicação Consele para Gerenciamento de alunos e Notas;
+# Aplicação Console para Gerenciamento de alunos e Notas;
 # Versão 1.
 ### A aplicação foi iniciada no curso Primeiros passos com .Net + C# da DIO
  
